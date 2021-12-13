@@ -13,4 +13,4 @@
 | ビュー | Enter | LB |
 
 制作 : 要塞民  
-[Twitter]([URL](https://twitter.com/kamatayosaimin))
+Twitter : [https://twitter.com/kamatayosaimin]([URL](https://twitter.com/kamatayosaimin))
